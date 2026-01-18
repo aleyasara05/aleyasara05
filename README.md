@@ -1,6 +1,6 @@
 ## Hi! I'm Aleeya Maisarah 👋
 
-## About Me
+## 👧 About Me
 - I'm a first year student in studying Bachelor of Computer Science (Computer Networks & Security) with Honours in UTM.
 ---
 ## 🎓 Education
@@ -105,6 +105,7 @@ SECJ1013 | Programming Technique I
 
 <p>
   email: aleyasara05@gmail.com
+<p>
 <a href="https://www.linkedin.com/in/aleeya-maisarah-16014639b/" target="_blank">
     Visit my LinkedIn
 </a>
