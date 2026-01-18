@@ -4,7 +4,7 @@
 - I'm a first year student in studying Bachelor of Computer Science (Computer Networks & Security) with Honours in UTM.
 ---
 ## 🎓 Education
-----
+
 ### Universiti Teknologi Malaysia (UTM)
 - Bachelor of Computer Science (Network and Security Computer ) with Honours
 ### Kolej Matrikulasi Johor (KMJ)
@@ -18,7 +18,7 @@
 
 ---
 ## 🧑‍💼 Position 
----
+
 ### Universiti Teknologi Malaysia (UTM)
 - **Actice Member** (UTM Persaka Club)
 - **Active Member** (VOLUNTEER@UTM Club)
@@ -37,7 +37,7 @@
   
 ---
 ## 🛠️ Skills 
----
+
 - C++ - Basic
 - Java
 - Git / GitHub - Basic
@@ -59,10 +59,10 @@
 
 ---
 ## 📖 Courses
----
+
 ### 1 / SERCH
 #### Semester 1
----
+
 <p>
 <a href=https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/51d7eebdc8b65479c3518afb3f1a5074d4b8d1f8/README.md
 SECP1513 | Technology and Information System
@@ -84,7 +84,7 @@ SECJ1013 | Programming Technique I
 
 ---
 ## Certificate 
----
+
 - **Bonding KSTAR 2025** (Director)
 - **Computing Open Day & Exhibition 2026** (Protocol Unit)
 - **Zumba Color Splash** (Participant)
@@ -92,15 +92,17 @@ SECJ1013 | Programming Technique I
 - **International Spadu Virtual Hiking 2022** (Participant)
 - **Village People Competition** (Vice President)
 
+
 ---
 ## 📁 Project 
----
+
 - **Project Design Thinking**
 - **Project Digital Logic**
 
+
 ---
 ## 📞 Contact
----
+
 <p>
 <a href="https://www.linkedin.com/in/aleeya-maisarah-16014639b/" target="_blank">
     Visit my LinkedIn
