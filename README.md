@@ -104,6 +104,7 @@ SECJ1013 | Programming Technique I
 ## 📞 Contact
 
 <p>
+  email: aleyasara05@gmail.com
 <a href="https://www.linkedin.com/in/aleeya-maisarah-16014639b/" target="_blank">
     Visit my LinkedIn
 </a>
