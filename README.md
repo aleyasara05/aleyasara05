@@ -64,9 +64,7 @@
 #### Semester 1
 
 <p>
-<a href="https://github.com/aleyasara05/TECHNOLOGY-AND-INFORMATION-SYSTEM/blob/51d7eebdc8b65479c3518afb3f1a5074d4b8d1f8/README.md" target="_blank">
 SECP1513 | Technology and Information System
-</a>
 </p>
 <p>
 SECJ1013 | Programming Technique I
